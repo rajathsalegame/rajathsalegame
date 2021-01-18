@@ -1,4 +1,4 @@
-### Hello world! 👋🏾
+### Hello world!
 
 - 👋🏾 Nice to meet you! My name is Rajath, and I'm a student at Harvard pursuing a Bachelors in Physics, a Masters in Applied Mathematics, and a minor in Computer Science.
 - 🤔 If I had to pick a metaphor to describe myself, I would characterize myself as a point particle in phase space with extremely stochastic dynamics.
