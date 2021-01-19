@@ -7,4 +7,9 @@
 - 💬 Excited about physics, computational chemistry, drug discovery, machine learning, quantitative finance, and neuroscience.
 - 📫 How to reach me: email me at rajathsalegame@college.harvard.edu! 
 
+Testing a few cool widgets I found below: 
+
 ![](https://komarev.com/ghpvc/?username=rajathsalegame)
+
+[![Rajath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajathsalegame&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
