@@ -11,5 +11,5 @@ Testing a few cool widgets I found below:
 
 ![](https://komarev.com/ghpvc/?username=rajathsalegame)
 
-[![Rajath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajathsalegame)](https://github.com/anuraghazra/github-readme-stats)
+[![Rajath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajathsalegame&count_private=True&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
