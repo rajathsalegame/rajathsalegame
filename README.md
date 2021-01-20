@@ -8,7 +8,7 @@
 
 👯 I’m looking to collaborate on interesting projects that sit on the intersection of physical/life sciences and technology.
 
-💬 Excited about physics, computational chemistry, drug discovery, machine learning, quantitative finance, and neuroscience. But perhaps most broadly, I'm excited about reinventing the future of humanity through science and technology! 
+💬 Excited about physics, computational chemistry, drug discovery, machine learning, quantitative finance, and neuroscience. But perhaps most broadly, I'm excited about reimagining the future of humanity through science and technology! 
 
 📫 How to reach me: email me at rajathsalegame@college.harvard.edu or DM me on [Twitter](https://twitter.com/RSalegame)! 
 
