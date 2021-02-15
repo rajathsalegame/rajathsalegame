@@ -6,7 +6,7 @@
 
 🔭 Most recently, I am building generative chemistry models for drug discovery on a leave of absence from Harvard at [PostEra](https://postera.ai/).
 
-👯 I’m currently looking to collaborate on projects that sit on the intersection of physical/life sciences and statistics/machine learning. However, I'm very interested in exploring any areas that have the potential to transform the future of humanity!
+👯 I’m currently looking to collaborate on projects that have the potential to transform the future of humanity through scientific discovery and innovation.
 
 💬 Excited about physics, computational chemistry, drug discovery, machine learning, quantitative finance, and neuroscience. But perhaps most broadly, I'm excited about reimagining the future of humanity through science and technology! 
 
