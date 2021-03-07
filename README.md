@@ -10,7 +10,7 @@
 
 💬 Excited about physics, computational chemistry, drug discovery, machine learning, quantitative finance, and neuroscience. But perhaps most broadly, I'm excited about reimagining the future of humanity through science and technology! 
 
-📫 How to reach me: email me at rajathsalegame@college.harvard.edu or DM me on [Twitter](https://twitter.com/RSalegame)! 
+📫 How to reach me: email me at rajathsalegame@college.harvard.edu, rajath.salegame@gmail.com or DM me on [Twitter](https://twitter.com/RSalegame)!
 
 Testing a few cool widgets I found below: 
 
